@@ -16,6 +16,18 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Sept 10, 2017",
+                "passage": "Mark 3:20-30 'The Stronger One'",
+                "speaker": "Pastor Robin Cho",
+                "length": "42:49",
+                "file": "Mark+3_20-30"
+            }, {
+                "date": "Sept 3, 2017",
+                "passage": "Ephesians 1:3-14 'Union With Christ'",
+                "speaker": "Pastor Stephen Jon (Guest Preacher)",
+                "length": "24:33",
+                "file": "Ephesians+13-14"
+            }, {
                 "date": "Aug 27, 2017",
                 "passage": "Jeremiah 12:7-17 'Hope For the Nations'",
                 "speaker": "Pastor Robin Cho",
