@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Sept 24, 2017",
+                "passage": "Mark 3:31-35 'God's Family'",
+                "speaker": "Pastor Robin Cho",
+                "length": "39:33",
+                "file": "Mark+3_31-35"
+            }, {
                 "date": "Sept 10, 2017",
                 "passage": "Mark 3:20-30 'The Stronger One'",
                 "speaker": "Pastor Robin Cho",
