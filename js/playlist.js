@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Oct 1, 2017",
+                "passage": "Mark 4:1-20 'The Parable of the Soil'",
+                "speaker": "Pastor Robin Cho",
+                "length": "48:41",
+                "file": "Mark+4_1-20"
+            }, {
                 "date": "Sept 24, 2017",
                 "passage": "Mark 3:31-35 'God's Family'",
                 "speaker": "Pastor Robin Cho",
