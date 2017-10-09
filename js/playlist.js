@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Oct 8, 2017",
+                "passage": "Mark 4:10-13; 21-25 'The Purpose of Parables'",
+                "speaker": "Pastor Robin Cho",
+                "length": "51:08",
+                "file": "Mark+4_10-13%3B+21-25"
+            }, {
                 "date": "Oct 1, 2017",
                 "passage": "Mark 4:1-20 'The Parable of the Soil'",
                 "speaker": "Pastor Robin Cho",
