@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Oct 15, 2017",
+                "passage": "Ephesians 2:1-10 'The Five Solas: Sola Gratia, By Grace Alone'",
+                "speaker": "Pastor Robin Cho",
+                "length": "52:31",
+                "file": "Ephesians+21-10"
+            }, {
                 "date": "Oct 8, 2017",
                 "passage": "Mark 4:10-13; 21-25 'The Purpose of Parables'",
                 "speaker": "Pastor Robin Cho",
