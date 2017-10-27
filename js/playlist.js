@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Oct 22, 2017",
+                "passage": "2 Timothy 3:16-17 'The 5 Solas: Sola Scriptura, Scripture Alone'",
+                "speaker": "Pastor Steven Jon (Guest Preacher)",
+                "length": "31:19",
+                "file": "New+Recording+4"
+            }, {
                 "date": "Oct 15, 2017",
                 "passage": "Ephesians 2:1-10 'The Five Solas: Sola Gratia, By Grace Alone'",
                 "speaker": "Pastor Robin Cho",
