@@ -16,8 +16,14 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Oct 29, 2017",
+                "passage": "Roman 4:1-8 'The Five Solas: Sola Fide, Faith Alone'",
+                "speaker": "Pastor Robin Cho",
+                "length": "48:04",
+                "file": "Romans+4_1-8"
+            }, {
                 "date": "Oct 22, 2017",
-                "passage": "2 Timothy 3:16-17 'The 5 Solas: Sola Scriptura, Scripture Alone'",
+                "passage": "2 Timothy 3:16-17 'The Five Solas: Sola Scriptura, Scripture Alone'",
                 "speaker": "Pastor Steven Jon (Guest Preacher)",
                 "length": "31:19",
                 "file": "New+Recording+4"
