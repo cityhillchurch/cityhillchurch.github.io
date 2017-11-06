@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Nov 5, 2017",
+                "passage": "Hebrews 10:19-25 'The Five Solas: Solus Christus, Christ Alone'",
+                "speaker": "Pastor Robin Cho",
+                "length": "38:46",
+                "file": "Solus+Christus+Hebrews+10_19-25"
+            }, {
                 "date": "Oct 29, 2017",
                 "passage": "Roman 4:1-8 'The Five Solas: Sola Fide, Faith Alone'",
                 "speaker": "Pastor Robin Cho",
