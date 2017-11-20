@@ -16,6 +16,18 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Nov 19, 2017",
+                "passage": "1 Thessalonians 5:16-18; Psalm 95:1-8 'Thanksgiving On Repeat'",
+                "speaker": "Pastor Robin Cho",
+                "length": "35:02",
+                "file": "1+Thessalonians+5_16-18%3B+Psalm+95_1-8"
+            }, {
+                "date": "Nov 12, 2017",
+                "passage": "John 11:17-40 'The Five Solas: Soli Deo Gloria, Glory To God Alone'",
+                "speaker": "Pastor Pastor Sam Kang (Guest Preacher)",
+                "length": "56:03",
+                "file": "A+Glory+Witnessed"
+            }, {
                 "date": "Nov 5, 2017",
                 "passage": "Hebrews 10:19-25 'The Five Solas: Solus Christus, Christ Alone'",
                 "speaker": "Pastor Robin Cho",
