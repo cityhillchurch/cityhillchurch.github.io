@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Dec 3, 2017",
+                "passage": "Mark 4:26-34 'Kingdom Parables'",
+                "speaker": "Pastor Robin Cho",
+                "length": "49:23",
+                "file": "Mark+426-34"
+            }, {
                 "date": "Nov 19, 2017",
                 "passage": "1 Thessalonians 5:16-18; Psalm 95:1-8 'Thanksgiving On Repeat'",
                 "speaker": "Pastor Robin Cho",
