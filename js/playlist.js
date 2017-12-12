@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Dec 10, 2017",
+                "passage": "Mark 4:35-41 'Fear and Faith'",
+                "speaker": "Pastor Robin Cho",
+                "length": "32:46",
+                "file": "Mark+4_35-41"
+            }, {
                 "date": "Dec 3, 2017",
                 "passage": "Mark 4:26-34 'Kingdom Parables'",
                 "speaker": "Pastor Robin Cho",
