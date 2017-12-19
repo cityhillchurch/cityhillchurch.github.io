@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Dec 17, 2017",
+                "passage": "Isaiah 8:22-9:1-7 'To Us a Child is Born'",
+                "speaker": "Pastor Robin Cho",
+                "length": "32:55",
+                "file": "Isaiah+8_22-9_1-7"
+            }, {
                 "date": "Dec 10, 2017",
                 "passage": "Mark 4:35-41 'Fear and Faith'",
                 "speaker": "Pastor Robin Cho",
