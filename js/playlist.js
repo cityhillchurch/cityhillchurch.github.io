@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Dec 31, 2017",
+                "passage": "Mark 5:1-20 'An Unlikely Missionary'",
+                "speaker": "Pastor Robin Cho",
+                "length": "42:50",
+                "file": "Mark+5_1-20+_An+Unlikely+Missionary_"
+            }, {
                 "date": "Dec 17, 2017",
                 "passage": "Isaiah 8:22-9:1-7 'To Us a Child is Born'",
                 "speaker": "Pastor Robin Cho",
