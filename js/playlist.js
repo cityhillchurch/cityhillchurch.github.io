@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Jan 7, 2018",
+                "passage": "Mark 5:21-34 'A True Peace'",
+                "speaker": "Pastor Robin Cho",
+                "length": "38:15",
+                "file": "Mark+5_21-34"
+            }, {
                 "date": "Dec 31, 2017",
                 "passage": "Mark 5:1-20 'An Unlikely Missionary'",
                 "speaker": "Pastor Robin Cho",
