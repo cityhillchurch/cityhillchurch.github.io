@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Jan 14, 2018",
+                "passage": "Mark 5:21-34 'From Death to Life'",
+                "speaker": "Pastor Robin Cho",
+                "length": "33:19",
+                "file": "Mark+5_35-43"
+            }, {
                 "date": "Jan 7, 2018",
                 "passage": "Mark 5:21-34 'A True Peace'",
                 "speaker": "Pastor Robin Cho",
