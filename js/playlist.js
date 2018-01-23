@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Jan 21, 2018",
+                "passage": "Mark 6:1-6 'Rejecting Jesus'",
+                "speaker": "Pastor Robin Cho",
+                "length": "38:44",
+                "file": "Mark+6_1-6"
+            }, {
                 "date": "Jan 14, 2018",
                 "passage": "Mark 5:21-34 'From Death to Life'",
                 "speaker": "Pastor Robin Cho",
