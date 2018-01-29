@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Jan 28, 2018",
+                "passage": "Mark 6:7-13 'Some Light Packing'",
+                "speaker": "Pastor Robin Cho",
+                "length": "44:12",
+                "file": "Mark+6_7-13"
+            }, {
                 "date": "Jan 21, 2018",
                 "passage": "Mark 6:1-6 'Rejecting Jesus'",
                 "speaker": "Pastor Robin Cho",
