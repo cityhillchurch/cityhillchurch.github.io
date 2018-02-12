@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Feb 11, 2018",
+                "passage": "Mark 6:14-29 'The Foreshadow'",
+                "speaker": "Pastor Robin Cho",
+                "length": "44:26",
+                "file": "Mark+6_14-29"
+            }, {
                 "date": "Jan 28, 2018",
                 "passage": "Mark 6:7-13 'Some Light Packing'",
                 "speaker": "Pastor Robin Cho",
