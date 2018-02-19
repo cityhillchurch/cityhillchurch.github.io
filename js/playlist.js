@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Feb 18, 2018",
+                "passage": "Mark 6:30-44 'Feeding The Sheep'",
+                "speaker": "Pastor Robin Cho",
+                "length": "42:12",
+                "file": "Mark6+30-44"
+            }, {
                 "date": "Feb 11, 2018",
                 "passage": "Mark 6:14-29 'The Foreshadow'",
                 "speaker": "Pastor Robin Cho",
