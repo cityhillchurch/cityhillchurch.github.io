@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Feb 25, 2018",
+                "passage": "Mark 6:45-52 'Walking On Water'",
+                "speaker": "Pastor Robin Cho",
+                "length": "48:15",
+                "file": "Mark+6_45-52"
+            }, {
                 "date": "Feb 18, 2018",
                 "passage": "Mark 6:30-44 'Feeding The Sheep'",
                 "speaker": "Pastor Robin Cho",
