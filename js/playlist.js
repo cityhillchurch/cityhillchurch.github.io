@@ -17,7 +17,7 @@ jQuery(function ($) {
             extension = '',
             tracks = [{
                 "date": "Mar 4, 2018",
-                "passage": "Mark 6:53-7:13 'Don't Be A Hypocrite'",
+                "passage": "Mark 6:53-7:13 'The Charge of Hypocrisy'",
                 "speaker": "Pastor Robin Cho",
                 "length": "44:10",
                 "file": "Mark+6_53-7_13"
