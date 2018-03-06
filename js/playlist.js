@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Mar 4, 2018",
+                "passage": "Mark 6:53-7:13 'Don't Be A Hypocrite'",
+                "speaker": "Pastor Robin Cho",
+                "length": "44:10",
+                "file": "Mark+6_53-7_13"
+            }, {
                 "date": "Feb 25, 2018",
                 "passage": "Mark 6:45-52 'Walking On Water'",
                 "speaker": "Pastor Robin Cho",
