@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Mar 11, 2018",
+                "passage": "Mark 7:14-23 'The Evil Within'",
+                "speaker": "Pastor Robin Cho",
+                "length": "54:53",
+                "file": "Mark+714-23"
+            }, {
                 "date": "Mar 4, 2018",
                 "passage": "Mark 6:53-7:13 'The Charge of Hypocrisy'",
                 "speaker": "Pastor Robin Cho",
