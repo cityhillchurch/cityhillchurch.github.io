@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Mar 118, 2018",
+                "passage": "Mark 7:24-30 'Persistent Faith'",
+                "speaker": "Pastor Robin Cho",
+                "length": "40:33",
+                "file": "Mark+7_24-30"
+            }, {
                 "date": "Mar 11, 2018",
                 "passage": "Mark 7:14-23 'The Evil Within'",
                 "speaker": "Pastor Robin Cho",
