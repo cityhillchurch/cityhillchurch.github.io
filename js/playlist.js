@@ -16,7 +16,13 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
-                "date": "Mar 118, 2018",
+                "date": "Mar 25, 2018",
+                "passage": "Mark 7:31-37 'The Deaf and the Mute'",
+                "speaker": "Pastor Robin Cho",
+                "length": "42:58",
+                "file": "Mark7+31-37"
+            }, {
+                "date": "Mar 18, 2018",
                 "passage": "Mark 7:24-30 'Persistent Faith'",
                 "speaker": "Pastor Robin Cho",
                 "length": "40:33",
