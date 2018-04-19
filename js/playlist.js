@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Apr 15, 2018",
+                "passage": "Mark 8:11-21 'Spiritual Amnesia'",
+                "speaker": "Pastor Robin Cho",
+                "length": "46:18",
+                "file": "Mark+8_11-21"
+            }, {
                 "date": "Apr 8, 2018",
                 "passage": "Mark 8:1-10 'Christ's Compassion For You'",
                 "speaker": "Pastor Robin Cho",
