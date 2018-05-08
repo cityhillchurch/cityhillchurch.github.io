@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "May 6, 2018",
+                "passage": "Mark 8:34 'The Conditions of Discipleship'",
+                "speaker": "Pastor Robin Cho",
+                "length": "47:44",
+                "file": "Mark+8_34"
+            }, {
                 "date": "Apr 29, 2018",
                 "passage": "Mark 8:31-33 'The Suffering Messiah'",
                 "speaker": "Pastor Robin Cho",
