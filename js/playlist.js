@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "May 13, 2018",
+                "passage": "Mark 8:35-38 'Saving Your Life'",
+                "speaker": "Pastor Robin Cho",
+                "length": "45:39",
+                "file": "Mark+8_35-38"
+            }, {
                 "date": "May 6, 2018",
                 "passage": "Mark 8:34 'The Conditions of Discipleship'",
                 "speaker": "Pastor Robin Cho",
