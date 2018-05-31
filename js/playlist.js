@@ -16,6 +16,18 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "May 27, 2018",
+                "passage": "Acts 4:21-31 'Bold Prayers'",
+                "speaker": "Pastor Oscar Leiva (Guest Preacher)",
+                "length": "28:12",
+                "file": "Acts+4_23-31"
+            }, {
+                "date": "May 20, 2018",
+                "passage": "Mark 9:1-13 'The Transfiguration'",
+                "speaker": "Pastor Robin Cho",
+                "length": "43:44",
+                "file": "Mark+9_1-13"
+            }, {
                 "date": "May 13, 2018",
                 "passage": "Mark 8:35-38 'Saving Your Life'",
                 "speaker": "Pastor Robin Cho",
