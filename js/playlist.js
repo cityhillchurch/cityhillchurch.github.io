@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Jun 3, 2018",
+                "passage": "Acts 4:21-31 'Help My Unbelief!'",
+                "speaker": "Pastor Robin Cho",
+                "length": "37:49",
+                "file": "Mark+9_14-29"
+            }, {
                 "date": "May 27, 2018",
                 "passage": "Acts 4:21-31 'Bold Prayers'",
                 "speaker": "Pastor Oscar Leiva (Guest Preacher)",
