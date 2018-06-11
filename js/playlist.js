@@ -16,8 +16,14 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Jun 10, 2018",
+                "passage": "Mark 9:30-37 'Last Place'",
+                "speaker": "Pastor Robin Cho",
+                "length": "40:15",
+                "file": "Mark+9_30-37"
+            }, {
                 "date": "Jun 3, 2018",
-                "passage": "Acts 4:21-31 'Help My Unbelief!'",
+                "passage": "Mark 9:14-29 'Help My Unbelief!'",
                 "speaker": "Pastor Robin Cho",
                 "length": "37:49",
                 "file": "Mark+9_14-29"
