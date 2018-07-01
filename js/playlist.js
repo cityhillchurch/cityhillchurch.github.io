@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Jun 24, 2018",
+                "passage": "Acts 17:1-15 'The Persisting Power of the Word'",
+                "speaker": "Pastor Bing Nieg (Guest Preacher)",
+                "length": "45:23",
+                "file": "Pastor+Bing"
+            }, {
                 "date": "Jun 10, 2018",
                 "passage": "Mark 9:30-37 'Last Place'",
                 "speaker": "Pastor Robin Cho",
