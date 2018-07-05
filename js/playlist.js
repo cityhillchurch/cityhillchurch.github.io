@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Jul 1, 2018",
+                "passage": "Mark 9:38-41 'Spiritual Snobbery'",
+                "speaker": "Pastor Robin Cho",
+                "length": "33:52",
+                "file": "Mark+9_38-41"
+            }, {
                 "date": "Jun 24, 2018",
                 "passage": "Acts 17:1-15 'The Persisting Power of the Word'",
                 "speaker": "Pastor Bing Nieg (Guest Preacher)",
