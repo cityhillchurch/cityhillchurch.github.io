@@ -30,7 +30,7 @@ jQuery(function ($) {
             }, {
                 "date": "Jun 24, 2018",
                 "passage": "Acts 17:1-15 'The Persisting Power of the Word'",
-                "speaker": "Pastor Bing Nieg (Guest Preacher)",
+                "speaker": "Pastor Bing Nieh (Guest Preacher)",
                 "length": "45:23",
                 "file": "Pastor+Bing"
             }, {
