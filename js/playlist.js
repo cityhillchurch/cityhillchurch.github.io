@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Jul 9, 2018",
+                "passage": "Mark 9:42-50 'Dealing With Sin'",
+                "speaker": "Pastor Robin Cho",
+                "length": "42:59",
+                "file": "Mark+9_42-50"
+            }, {
                 "date": "Jul 1, 2018",
                 "passage": "Mark 9:38-41 'Spiritual Snobbery'",
                 "speaker": "Pastor Robin Cho",
