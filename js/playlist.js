@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Jul 22, 2018",
+                "passage": "Mark 10:13-16 'Kingdom Talk'",
+                "speaker": "Pastor Robin Cho",
+                "length": "31:07",
+                "file": "Mark+1013-16"
+            }, {
                 "date": "Jul 9, 2018",
                 "passage": "Mark 9:42-50 'Dealing With Sin'",
                 "speaker": "Pastor Robin Cho",
