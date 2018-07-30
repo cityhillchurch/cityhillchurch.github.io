@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Jul 29, 2018",
+                "passage": "Genesis 17:1-8 'God Almighty'",
+                "speaker": "Pastor Robin Cho",
+                "length": "45:03",
+                "file": "Genesis+17_1-8"
+            }, {
                 "date": "Jul 22, 2018",
                 "passage": "Mark 10:13-16 'Kingdom Talk'",
                 "speaker": "Pastor Robin Cho",
