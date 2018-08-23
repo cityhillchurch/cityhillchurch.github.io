@@ -16,6 +16,24 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Aug 19, 2018",
+                "passage": "John 3:1-15 'To Be Born Again'",
+                "speaker": "Pastor Steven John (Guest Preacher)",
+                "length": "37:52",
+                "file": "p.Sam+John+3_1-15"
+            }, {
+                "date": "Aug 12, 2018",
+                "passage": "Mark 10:23-31 'How Can One Be Saved?'",
+                "speaker": "Pastor Robin Cho",
+                "length": "33:06",
+                "file": "Mark+10_23-31"
+            }, {
+                "date": "Aug 5, 2018",
+                "passage": "Mark 10:17-22 'You Lack One Thing'",
+                "speaker": "Pastor Robin Cho",
+                "length": "38:42",
+                "file": "Mark+10_17-22"
+            }, {
                 "date": "Jul 29, 2018",
                 "passage": "Genesis 17:1-8 'God Almighty'",
                 "speaker": "Pastor Robin Cho",
