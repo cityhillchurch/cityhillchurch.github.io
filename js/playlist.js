@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Aug 26, 2018",
+                "passage": "Psalm 63:1-3 'Regaining A Thirst For God'",
+                "speaker": "Pastor Robin Cho",
+                "length": "41:44",
+                "file": "Psalm+63_1-3"
+            }, {
                 "date": "Aug 19, 2018",
                 "passage": "John 3:1-15 'To Be Born Again'",
                 "speaker": "Pastor Steven John (Guest Preacher)",
