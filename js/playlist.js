@@ -24,7 +24,7 @@ jQuery(function ($) {
             }, {
                 "date": "Aug 19, 2018",
                 "passage": "John 3:1-15 'To Be Born Again'",
-                "speaker": "Pastor Steven John (Guest Preacher)",
+                "speaker": "Pastor Sam Kang (Guest Preacher)",
                 "length": "37:52",
                 "file": "p.Sam+John+3_1-15"
             }, {
