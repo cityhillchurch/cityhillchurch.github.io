@@ -16,6 +16,18 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Sept 9, 2018",
+                "passage": "2 Corinthians 4:7-12; 16-18 'Clay Pots'",
+                "speaker": "Pastor Robin Cho",
+                "length": "40:20",
+                "file": "2+Corinthians+4_7-12%3B+16-18"
+            }, {
+                "date": "Sept 2, 2018",
+                "passage": "Acts 20:17-25 'Paul’s Race Constrained by the Spirit'",
+                "speaker": "Pastor Jonathan Lee (Guest Preacher)",
+                "length": "22:01",
+                "file": "Pastor+Jonathan"
+            }, {
                 "date": "Aug 26, 2018",
                 "passage": "Psalm 63:1-3 'Regaining A Thirst For God'",
                 "speaker": "Pastor Robin Cho",
