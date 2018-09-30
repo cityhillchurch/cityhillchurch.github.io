@@ -16,6 +16,18 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Sept 23, 2018",
+                "passage": "Mark 10:46-52 'Believing, Seeing, and Following'",
+                "speaker": "Pastor Robin Cho",
+                "length": "38:11",
+                "file": "Mark+10_46-52"
+            }, {
+                "date": "Sept 16, 2018",
+                "passage": "Mark 10:32-45 'Theology of glory vs. Theology of the Cross'",
+                "speaker": "Pastor Robin Cho",
+                "length": "32:33",
+                "file": "Mark+10_32-45"
+            }, {
                 "date": "Sept 9, 2018",
                 "passage": "2 Corinthians 4:7-12; 16-18 'Clay Pots'",
                 "speaker": "Pastor Robin Cho",
