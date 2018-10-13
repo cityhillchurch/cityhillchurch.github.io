@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Oct 7, 2018",
+                "passage": "Mark 11:12-14 'Fruitless'",
+                "speaker": "Pastor Robin Cho",
+                "length": "38:42",
+                "file": "Mark+11_12-14"
+            }, {
                 "date": "Sept 30, 2018",
                 "passage": "Mark 11:1-11 'Finally Here'",
                 "speaker": "Pastor Robin Cho",
