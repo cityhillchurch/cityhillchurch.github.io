@@ -16,6 +16,12 @@ jQuery(function ($) {
             mediaPath = 'https://s3.us-east-2.amazonaws.com/sermons.cityhillchurch.org/Sermons/',
             extension = '',
             tracks = [{
+                "date": "Oct 14, 2018",
+                "passage": "Mark 11:15-19 'Righteous Indignation'",
+                "speaker": "Pastor Robin Cho",
+                "length": "41:24",
+                "file": "Mark+11_15-19"
+            }, {
                 "date": "Oct 7, 2018",
                 "passage": "Mark 11:12-14 'Fruitless'",
                 "speaker": "Pastor Robin Cho",
